@@ -1,0 +1,34 @@
+[
+  {
+    "appointmentId": 1,
+    "patientFirstName": "Homer",
+    "patientLastName": "Simpson",
+    "dateTime": 1658744100000,
+    "appointmentType": "Follow up",
+    "doctorId": 1
+  },
+  {
+    "appointmentId": 2,
+    "patientFirstName": "Bart",
+    "patientLastName": "Simpson",
+    "dateTime": 1658744100000,
+    "appointmentType": "New patient",
+    "doctorId": 1
+  },
+  {
+    "appointmentId": 3,
+    "patientFirstName": "Marge",
+    "patientLastName": "Simpson",
+    "dateTime": 1658752200000,
+    "appointmentType": "Follow up",
+    "doctorId": 2
+  },
+  {
+    "appointmentId": 4,
+    "patientFirstName": "Lisa",
+    "patientLastName": "Simpson",
+    "dateTime": 1658752200000,
+    "appointmentType": "New patient",
+    "doctorId": 2
+  }
+]
