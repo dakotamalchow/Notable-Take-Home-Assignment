@@ -1,0 +1,12 @@
+[
+  {
+    "doctorId": 1,
+    "firstName": "Nick",
+    "lastName": "Riviera"
+  },
+  {
+    "doctorId": 2,
+    "firstName": "Julius",
+    "lastName": "Hibbert"
+  }
+]
